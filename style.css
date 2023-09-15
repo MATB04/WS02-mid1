@@ -1,0 +1,85 @@
+html, body{
+	font-family: Segoe UI Historic;
+	font-size: x-large;
+	margin: 0;
+}
+
+header{
+	background-image: url("headerbg.png") ;
+	background-size: cover;
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+	font-family: Segoe UI Historic;
+	font-size: 100px;
+	color: #D8C98F ;
+}
+
+h2{
+	text-align: center;
+	color: #380807;
+}
+
+header img{
+	border-radius: 180px;
+ 	width: 300px;
+	border: 12px solid #D8C98F;
+}
+
+.content{
+	max-width: 1550px;
+	margin: 0 auto;
+	padding: 0px;
+}
+
+img.big-image{
+	border-radius: 20px;
+	display: block;
+    margin: 0 auto;
+    width: 90%;
+}
+
+p.caption{
+	font-size: 30px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+#atsushi {
+	float: left;
+}
+#itachi {
+	display: grid;
+	place-items: center;
+}
+#madara {
+	float: right;
+}
+a{
+	color: green;
+	text-decora3on: none;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #333541;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	color : white;
+	margin: 0 5px;
+}
