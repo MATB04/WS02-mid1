@@ -53,16 +53,6 @@ ul{
 	margin: 0;
 }
 
-#atsushi {
-	float: left;
-}
-#itachi {
-	display: grid;
-	place-items: center;
-}
-#madara {
-	float: right;
-}
 a{
 	color: green;
 	text-decora3on: none;
